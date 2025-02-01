@@ -10,7 +10,7 @@ Kullanıcıların burada, Dashboard ekranına ulaşmak için taraflarına iletil
 ## 💎 Dashboard Ekranı
 Kullanıcılar bu ekranda; "Toplam Bakiyesini", saniye başı değişkenlik gösteren "Fatura Bilgilerini" ve "Gelen Son Havalelerini" , "Bankalar Ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altından mevcut paraları'nın bankalar üzerindeki istatistiksel dağılımlarını ve "Ödenen Borçlar Grafiği" başlığı altından Ödeme işlemlerini istatistiksel bir grafik üzerinden görüntüleyebilirler. Ve Sol paneldeki butonlar yardımıyla farklı ekranlar arasında geçiş yapabilirler.
 
-![Image](https://github.com/user-attachments/assets/6cf2542d-e687-4533-9931-43af440304dd)
+![Image](https://github.com/user-attachments/assets/472db943-5c25-4eaa-8d6a-38e012d07917)
 
 ## 💎 Category Ekranı
 Kullanıcılar bu ekranda,CRUD işlemleri yapabilirler. Nedir bu işlemler? Bu işlemler; create,read,delete,update işlemleridir. Kullanıcılar istedikleri kategoriyi ekleyip-listeleyip-silip-güncelleyebilir
